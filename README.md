@@ -7,4 +7,6 @@ This was the last course of the [Google IT Automation with Python Professional C
 ## Solutions
 
 - Week 1 Lab: Scale and convert images using PIL [solution](./module-1/script.py)
-- Week 2 Lab: Process text files with Python dictionaries and upload to running Web service [solution](./module-2/run.py)
+- Week 2 Lab: Process Text Files with Python Dictionaries and Upload to Running Web Service [solution](./module-2/run.py)
+- Week 3 Lab: Automatically Generate a PDF and send it by Email [solution](./module-3/cars.py)
+- Week 4 Lab: Automate updating catalog information [solution](./module-4/)
